@@ -1,37 +1,17 @@
-## Welcome to GitHub Pages
+## About
 
-You can use the [editor on GitHub](https://github.com/Srikanta/blog/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Hi my name is Srikanta Subudhi and I am a senior software engineer, working remotely for companies around the world. I am currently working on projects through Upwork, Guru.com, Fivvr, and Toptal.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+To work together, please contact me by email at srikanta.ku.subudhi@gmail.com
 
-### Markdown
+### Skills
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+I am a design concious developer focused on PHP, JavaScript, and various typed languages. I am comfortable working on hardware projects based in C or C#, but also work on web technologies based on Java servers.
 
-```markdown
-Syntax highlighted code block
+Currently, I am focusing primarily on Node.js projects.
 
-# Header 1
-## Header 2
-### Header 3
+### Goals
 
-- Bulleted
-- List
+I would like to expand my side-projects in Node.js. I am working with [Senior meets junior](https://smj.dev), a online community of developers who collaborate on side projects to learn new languages. You can sign up to [Senior meets junior](https://smj.dev) at https://smj.dev - or contact [Leonard Bogdonoff](http://www.rememberlenny.com) at http://www.rememberlenny.com.
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Srikanta/blog/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+![Working on Senior meets Junior with Leonard](https://user-images.githubusercontent.com/1332366/70382320-ce131f00-1927-11ea-8554-6fb34dac37b7.png)
